@@ -58,7 +58,7 @@
             </li>
            
          
-            <li class="treeview">
+            <!-- <li class="treeview">
               <a href="#">
                 <i class="fa fa-money"></i>
                 <span>Data Keuangan KAS</span>
@@ -70,18 +70,18 @@
                 <li><a href="pages/charts/chartjs.html"><i class="fa fa-print"></i> Laporan Kas </a></li>
              
               </ul>
-            </li>
+            </li> -->
             <li>
               <a href="pages/calendar.html">
                 <i class="fa fa-map"></i> <span>GIS</span>
                     </a>
             </li>
 
-            <li>
+            <!-- <li>
               <a href="pages/calendar.html">
                 <i class="fa fa-money"></i> <span>Transaksi</span>
                     </a>
-            </li>
+            </li> -->
             
             <li class="treeview">
               <a href="#">

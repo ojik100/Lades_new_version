@@ -22,8 +22,8 @@
               <div class="info-box">
                 <span class="info-box-icon bg-aqua"><i class="fa fa-users"></i></span>
                 <div class="info-box-content">
-                  <span class="info-box-text">Pelanggan</span>
-                  <span class="info-box-number">100 | Orang<small></small></span>
+                  <span class="info-box-text">Hasil Bumi</span>
+                  <span class="info-box-number">100<small></small></span>
                 </div><!-- /.info-box-content -->
               </div><!-- /.info-box -->
             </div><!-- /.col -->
@@ -31,8 +31,8 @@
               <div class="info-box">
                 <span class="info-box-icon bg-red"><i class="fa fa-money"></i></span>
                 <div class="info-box-content">
-                  <span class="info-box-text">Data KAS</span>
-                  <span class="info-box-number">Rp.100.000.00</span>
+                  <span class="info-box-text">Komoditas</span>
+                  <span class="info-box-number">10</span>
                 </div><!-- /.info-box-content -->
               </div><!-- /.info-box -->
             </div><!-- /.col -->
@@ -44,8 +44,8 @@
               <div class="info-box">
                 <span class="info-box-icon bg-green"><i class="fa fa-map"></i></span>
                 <div class="info-box-content">
-                  <span class="info-box-text">Data Lokasi</span>
-                  <span class="info-box-number">760 | Lokasi</span>
+                  <span class="info-box-text">Pemerintah Desa</span>
+                  <span class="info-box-number">760 </span>
                 </div><!-- /.info-box-content -->
               </div><!-- /.info-box -->
             </div><!-- /.col -->
@@ -53,8 +53,8 @@
               <div class="info-box">
                 <span class="info-box-icon bg-yellow"><i class="fa fa-money"></i></span>
                 <div class="info-box-content">
-                  <span class="info-box-text">Transaksi</span>
-                  <span class="info-box-number">Rp.200.000.00</span>
+                  <span class="info-box-text">Produksi</span>
+                  <span class="info-box-number">100</span>
                 </div><!-- /.info-box-content -->
               </div><!-- /.info-box -->
             </div><!-- /.col -->
@@ -69,7 +69,7 @@
               <!-- MAP & BOX PANE -->
               <div class="box box-success">
                 <div class="box-header with-border">
-                  <h3 class="box-title">Gis Anggota</h3>
+                  <h3 class="box-title">Gis Hasil Bumi</h3>
                   <div class="box-tools pull-right">
                     <button class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
                     <button class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
@@ -100,93 +100,15 @@
               </div><!-- /.row -->
 
               <!-- TABLE: LATEST ORDERS -->
-              <div class="box box-info">
-                <div class="box-header with-border">
-                  <h3 class="box-title">Transaksi</h3>
-                  <div class="box-tools pull-right">
-                    <button class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
-                    <button class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
-                  </div>
-                </div><!-- /.box-header -->
-                <div class="box-body">
-                  <div class="table-responsive">
-                    <table class="table no-margin">
-                      <thead>
-                        <tr>
-                          <th>Order ID</th>
-                          <th>Item</th>
-                          <th>Status</th>
-                          <th>Popularity</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        <tr>
-                          <td><a href="pages/examples/invoice.html">OR9842</a></td>
-                          <td>Call of Duty IV</td>
-                          <td><span class="label label-success">Shipped</span></td>
-                          <td><div class="sparkbar" data-color="#00a65a" data-height="20">90,80,90,-70,61,-83,63</div></td>
-                        </tr>
-                      
-                        <tr>
-                          <td><a href="pages/examples/invoice.html">OR9842</a></td>
-                          <td>Call of Duty IV</td>
-                          <td><span class="label label-danger">Pendding</span></td>
-                          <td><div class="sparkbar" data-color="#00a65a" data-height="20">90,80,90,-70,61,-83,63</div></td>
-                        </tr>
-                      </tbody>
-                    </table>
-                  </div><!-- /.table-responsive -->
-                </div><!-- /.box-body -->
-                <div class="box-footer clearfix">
-                  <a href="javascript::;" class="btn btn-sm btn-info btn-flat pull-left">Place New Order</a>
-                  <a href="javascript::;" class="btn btn-sm btn-default btn-flat pull-right">View All Orders</a>
-                </div><!-- /.box-footer -->
-              </div>
+            
             </div><!-- /.col -->
 
             <div class="col-md-4">
               <!-- Info Boxes Style 2 -->
          
-              <div class="info-box bg-green">
-                <span class="info-box-icon"><i class="fa fa-users"></i></span>
-                <div class="info-box-content">
-                  <span class="info-box-text">Kecamatan Selong</span>
-                  <span class="info-box-number">92 Orang</span>
-                  <div class="progress">
-                    <div class="progress-bar" style="width: 20%"></div>
-                  </div>
-                  <span class="progress-description">
-                    
-                  </span>
-                </div><!-- /.info-box-content -->
-              </div><!-- /.info-box -->
-              <div class="info-box bg-red">
-                <span class="info-box-icon"><i class="fa fa-users"></i></span>
-                <div class="info-box-content">
-                  <span class="info-box-text">Keruak</span>
-                  <span class="info-box-number">100 Orang</span>
-                  <div class="progress">
-                    <div class="progress-bar" style="width: 70%"></div>
-                  </div>
-                  <span class="progress-description">
-                 
-                  </span>
-                </div><!-- /.info-box-content -->
-              </div><!-- /.info-box -->
-              <div class="info-box bg-aqua">
-                <span class="info-box-icon"><i class="fa fa-users"></i></span>
-                <div class="info-box-content">
-                  <span class="info-box-text">Kecamatan Jerowaru</span>
-                  <span class="info-box-number">300 Orang</span>
-                  <div class="progress">
-                    <div class="progress-bar" style="width: 40%"></div>
-                  </div>
-                  <span class="progress-description">
-                  
-                  </span>
-                </div><!-- /.info-box-content -->
-              </div><!-- /.info-box -->
-
+             
+             
+             
             
 
               <!-- PRODUCT LIST -->
